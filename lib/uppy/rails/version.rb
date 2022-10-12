@@ -2,6 +2,6 @@
 
 module Uppy
   module Rails
-    VERSION = "2.13.2"
+    VERSION = "2.13.5"
   end
 end
