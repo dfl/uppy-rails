@@ -1,0 +1,7 @@
+{
+  "name": "uppy-rails",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "uppy": "^4.13.0"
+  }
+}
